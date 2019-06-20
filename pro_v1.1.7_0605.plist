@@ -1,6 +1,6 @@
-<?xml version="1.1.7" encoding="UTF-8"?>
+<?xml version="1.1.8" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.1.7">
+<plist version="1.1.8">
 <dict>
 	<key>items</key>
 	<array>
@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://qndev.thinkchating.com/pro_v1.1.7_0605.ipa</string>
+					<string>http://qndev.thinkchating.com/pro_v1.1.8_0620pa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.thinkchating.siliao</string>
 				<key>bundle-version</key>
-				<string>1.1.7</string>
+				<string>1.1.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
